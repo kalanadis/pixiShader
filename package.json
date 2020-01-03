@@ -1,0 +1,21 @@
+{
+  "name": "pixi_v5_shaders",
+  "version": "1.0.0",
+  "description": "Pixi.js V5 shaders",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "kalana dissanayake",
+  "license": "WTFPL",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.1.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "dependencies": {
+    "pixi.js": "^5.2.0"
+  }
+}
