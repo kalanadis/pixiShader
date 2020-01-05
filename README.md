@@ -8,3 +8,5 @@ npm run build
 ![](waterShader.gif)
 
 Generated files will be in dist folder
+
+[Blog Post](https://myunitynotes.wordpress.com/2020/01/04/shaders-with-pixi-js/)
